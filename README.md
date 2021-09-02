@@ -1,1 +1,1 @@
-# Note-taking-application
+# Note-taking-application (Android studio)
